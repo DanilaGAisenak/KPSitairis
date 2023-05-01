@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3d13f31-2529-43b7-b3ba-efcf18252b1d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2P6pDFzpeMCnMA1zIpuGlSbOetl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Универ/ПИСЛ/warehouseManagement-main010523/src/main/resources/templates",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.45632184",
+    "spring.configuration.checksum": "b85921d8822e35ce537b96115b937bfb"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Универ\ПИСЛ\warehouseManagement-main010523\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MovieMarkingApplication (1)">
+    <configuration name="CriticsServiceImplTest.findAllCustomers_success" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="warehouseManagement-main — копия" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.moviemarking.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company.moviemarking.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.company.moviemarking.service.impl.CriticsServiceImplTest" />
+      <option name="METHOD_NAME" value="findAllCustomers_success" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CriticsServiceImplTest.findCustomerById_invalidIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="warehouseManagement-main — копия" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.moviemarking.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company.moviemarking.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.company.moviemarking.service.impl.CriticsServiceImplTest" />
+      <option name="METHOD_NAME" value="findCustomerById_invalidIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CriticsServiceImplTest.findCustomerById_success" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="warehouseManagement-main — копия" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.moviemarking.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company.moviemarking.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.company.moviemarking.service.impl.CriticsServiceImplTest" />
+      <option name="METHOD_NAME" value="findCustomerById_success" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CriticsServiceImplTest.removeCustomer_success" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="warehouseManagement-main — копия" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.moviemarking.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company.moviemarking.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.company.moviemarking.service.impl.CriticsServiceImplTest" />
+      <option name="METHOD_NAME" value="removeCustomer_success" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="movieMarking-main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="movieMarking-main" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieMarkingApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="warehouseManagement-main010523" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.company.moviemarking.MovieMarkingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieMarkingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" />
+      <module name="warehouseManagement-main — копия" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.company.moviemarking.MovieMarkingApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.moviemarking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WarehouseManagementApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="movieMarking-main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yakubovskiy.warehousemanagement.WarehouseManagementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WarehouseManagementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="warehouseManagement" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yakubovskiy.warehousemanagement.WarehouseManagementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MovieMarkingApplication" />
+        <item itemvalue="JUnit.CriticsServiceImplTest.findCustomerById_invalidIndex" />
+        <item itemvalue="JUnit.CriticsServiceImplTest.removeCustomer_success" />
+        <item itemvalue="JUnit.CriticsServiceImplTest.findCustomerById_success" />
+        <item itemvalue="JUnit.CriticsServiceImplTest.findAllCustomers_success" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3d13f31-2529-43b7-b3ba-efcf18252b1d" name="Changes" comment="" />
+      <created>1682787266128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682787266128</updated>
+      <workItem from="1682787267556" duration="6348000" />
+      <workItem from="1682797028216" duration="9038000" />
+      <workItem from="1682839056460" duration="21452000" />
+      <workItem from="1682864959457" duration="581000" />
+      <workItem from="1682872153870" duration="5149000" />
+      <workItem from="1682878505202" duration="9000" />
+      <workItem from="1682880850427" duration="16639000" />
+      <workItem from="1682924502473" duration="2091000" />
+      <workItem from="1682926713093" duration="30613000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
